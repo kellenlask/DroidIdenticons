@@ -3,8 +3,6 @@ import android.graphics.Color;
 import android.os.AsyncTask;
 import android.widget.ImageView;
 
-import com.lask.scientifichabits.Utils.Identicon;
-
 import java.lang.ref.WeakReference;
 
 /**
